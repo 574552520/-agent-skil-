@@ -7,6 +7,7 @@
 - `deep-researcher`：调研与分析
 - `code-dev`：开发与调试
 - `daily-ops-agent`：固定流程和巡检
+- `creative-agent`：创意、生图、生视频能力模板
 
 ## 使用方式
 1. 复制 `agents/main` 的模板到目标 workspace 根目录

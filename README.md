@@ -93,3 +93,9 @@ bash shared-pack/scripts/install-multi-agent-template.sh
 这会安装：
 - 主 agent 根目录文件
 - `agent-templates/` 下的多角色模板说明
+
+
+## 可同步的模型与能力参数
+
+仓库中包含 `MODEL_PROFILES.md`，用于同步各 agent 的模型/能力模板约定。
+其中 creative-agent 的生图/生视频能力以模板形式描述，实际 API key 需由使用者自行配置。
