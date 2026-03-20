@@ -99,3 +99,12 @@ bash shared-pack/scripts/install-multi-agent-template.sh
 
 仓库中包含 `MODEL_PROFILES.md`，用于同步各 agent 的模型/能力模板约定。
 其中 creative-agent 的生图/生视频能力以模板形式描述，实际 API key 需由使用者自行配置。
+
+
+## Creative Agent 运行条件
+
+仓库中新增：
+- `docs/CREATIVE_AGENT_RUNTIME.md`
+- `examples/CREATIVE_AGENT_RUNTIME.env.example`
+
+用于说明 creative-agent 真正可运行所需的图像/视频能力接线条件。
