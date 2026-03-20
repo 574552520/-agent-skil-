@@ -108,3 +108,8 @@ bash shared-pack/scripts/install-multi-agent-template.sh
 - `examples/CREATIVE_AGENT_RUNTIME.env.example`
 
 用于说明 creative-agent 真正可运行所需的图像/视频能力接线条件。
+
+
+## Starter Skill
+
+仓库现在包含 `skills/creative-media-starter/`，用于给 creative-agent 提供生图/生视频能力的最小接线模板。
