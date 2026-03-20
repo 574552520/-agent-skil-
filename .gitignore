@@ -1,0 +1,9 @@
+.env
+.env.*
+MEMORY.md
+memory/
+USER.md
+IDENTITY.md
+*.log
+node_modules/
+.DS_Store
