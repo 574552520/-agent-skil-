@@ -80,3 +80,16 @@ skills/
 - 把这个仓库作为“公共模板仓库”
 - 每个龙虾实例各自补本地 `USER.md`、`.env`、记忆文件
 - 把通用能力持续沉淀进 `skills/`
+
+
+## 多-Agent 模板安装
+
+如果你希望同步一整套 agent 体系模板，而不是只同步主 agent：
+
+```bash
+bash shared-pack/scripts/install-multi-agent-template.sh
+```
+
+这会安装：
+- 主 agent 根目录文件
+- `agent-templates/` 下的多角色模板说明
